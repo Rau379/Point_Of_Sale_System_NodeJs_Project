@@ -1,7 +1,2 @@
-# POS-Mern-Stack-Project
-Complete Mern Stack POS Project
-
-# Check Repository Branches for complete code
-video link :
-https://youtu.be/wdeedpLh_5k
-Thanks for wtaching TECHINFOYT Youtube Channel
+POS-Mern-Stack-Project Built a point of sale system project using Node Js, Expreess js in backend and React & Redux in fronted
+#Node JS Based Project
